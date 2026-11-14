@@ -143,11 +143,13 @@ function About() {
           <p>IJO House of Beauty is a unisex destination for hair, nails and beauty. Come in for a fresh style, a little self-care, or the finishing touch that feels like you.</p>
           <a className="editorial-link" href="#services">Meet the service edit <ArrowRight size={16} aria-hidden="true" /></a>
         </div>
-        <div className="about__art" aria-hidden="true">
-          <span className="about__art-word">IJO</span>
-          <span className="about__art-line" />
-          <span className="about__art-note">HAIR / NAILS / BEAUTY</span>
-          <span className="about__art-count">A SALON<br />FOR YOU</span>
+        <div className="about__art">
+          <img
+            src="/images/image01.jpeg"
+            alt="IJO House of Beauty salon sign with its services and contact information"
+            loading="lazy"
+            decoding="async"
+          />
         </div>
       </div>
       <div className="about__foot"><span>CARE, WITH CHARACTER</span><span>EST. FOR YOUR NEXT CHAPTER</span></div>
