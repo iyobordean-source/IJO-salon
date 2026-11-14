@@ -1,0 +1,12 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#2d192b"/>
+  <path d="M1200 0H780c-118 130-91 287 29 386 103 84 100 163 67 244h324V0Z" fill="#bd4334"/>
+  <circle cx="1010" cy="265" r="155" fill="#e3aa96" opacity=".8"/>
+  <path d="M914 190c53-93 189-108 267 1 45 63 19 179-31 233-53 57-143 39-182-9-39-47-85-142-54-225Z" fill="#713448"/>
+  <text x="82" y="94" fill="#e3aa96" font-family="Arial,sans-serif" font-size="17" letter-spacing="6">IJO HOUSE OF BEAUTY</text>
+  <text x="72" y="263" fill="#f3efe8" font-family="Georgia,serif" font-size="82">Beauty, in</text>
+  <text x="72" y="357" fill="#e3aa96" font-family="Georgia,serif" font-size="82" font-style="italic">full expression.</text>
+  <text x="83" y="447" fill="#f3efe8" font-family="Arial,sans-serif" font-size="18" letter-spacing="4">HAIR · NAILS · BEAUTY</text>
+  <path d="M80 504h477" stroke="#f3efe8" stroke-opacity=".5"/>
+  <text x="83" y="548" fill="#f3efe8" font-family="Arial,sans-serif" font-size="13" letter-spacing="3">UNISEX SALON</text>
+</svg>
